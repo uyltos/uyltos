@@ -1,5 +1,7 @@
 Backend Developer (Java & Kotlin)
 
+E-mail: uyltos@yandex.ru
+
 Tools & Tech Stack
 Languages: Java (8, 17, 21), Kotlin, C++
 
