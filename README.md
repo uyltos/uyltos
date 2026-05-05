@@ -1,16 +1,15 @@
-## Hi there 👋
+Backend Developer (Java & Kotlin)
+Tools & Tech Stack
+Languages: Java (8, 17, 21), Kotlin, C++
 
-<!--
-**uyltos/uyltos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frameworks & Testing: Spring (IoC, DI, Boot), JUnit, AssertJ, Mockito
 
-Here are some ideas to get you started:
+Databases: PostgreSQL, MySQL, Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Build Tools: Maven, Gradle
+
+Data Formats: JSON (Gson), XML, YAML
+
+Version Control: Git (GitHub, GitLab)
+
+Other: Kotlin Coroutines, Serialization, Telegram/Discord bots.
